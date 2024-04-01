@@ -1,0 +1,28 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div id="onlyoffice"></div>
+
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("initOnlyOffice",
+            "onlyoffice", // Asegúrate de que este ID coincida con el ID del div en el HTML
+            "http://host.docker.internal:8080/large.docx", // URL del documento
+            "docx", // Tipo de documento
+            "8", // Clave única del documento
+            "Sample Document" // URL del callback (ajusta según sea necesario)
+            );
+        }
+    }
+}

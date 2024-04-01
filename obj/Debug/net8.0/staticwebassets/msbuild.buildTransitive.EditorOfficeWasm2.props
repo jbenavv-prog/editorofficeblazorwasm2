@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EditorOfficeWasm2.props" />
+</Project>
