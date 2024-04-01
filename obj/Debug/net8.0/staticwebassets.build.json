@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Q24SVlbBfCyvz5itzhQG5BdB1hYSD0xzjMU24OuxQ8=",
+  "Hash": "wbv60eeiP4HYAoyYF8vP4YLfSC9hozjrRUnGnZFjOgo=",
   "Source": "EditorOfficeWasm2",
   "BasePath": "/",
   "Mode": "Root",
@@ -7921,12 +7921,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\RentAdvisor\\Documents\\ASPNET\\EditorOfficeWasm2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\RentAdvisor\\Documents\\ASPNET\\EditorOfficeWasm2\\wwwroot\\onlyoffice-integration.html",
       "SourceId": "EditorOfficeWasm2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\RentAdvisor\\Documents\\ASPNET\\EditorOfficeWasm2\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "js/site.js",
+      "RelativePath": "onlyoffice-integration.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7937,7 +7937,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\onlyoffice-integration.html"
     },
     {
       "Identity": "C:\\Users\\RentAdvisor\\Documents\\ASPNET\\EditorOfficeWasm2\\wwwroot\\sample-data\\weather.json",

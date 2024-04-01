@@ -1029,3 +1029,4 @@ C:\Users\RentAdvisor\Documents\ASPNET\EditorOfficeWasm2\obj\Debug\net8.0\EditorO
 C:\Users\RentAdvisor\Documents\ASPNET\EditorOfficeWasm2\obj\Debug\net8.0\refint\EditorOfficeWasm2.dll
 C:\Users\RentAdvisor\Documents\ASPNET\EditorOfficeWasm2\obj\Debug\net8.0\EditorOfficeWasm2.pdb
 C:\Users\RentAdvisor\Documents\ASPNET\EditorOfficeWasm2\obj\Debug\net8.0\ref\EditorOfficeWasm2.dll
+C:\Users\RentAdvisor\Documents\ASPNET\EditorOfficeWasm2\obj\Debug\net8.0\EditorOfficeWasm2.sourcelink.json

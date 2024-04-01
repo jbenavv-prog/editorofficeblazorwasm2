@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EditorOfficeWasm2",
   "resources": {
-    "hash": "sha256-2j/MDaF+s7mtbGGRt4iF6jAlgsVvcFc+KWZEZzmFFWQ=",
+    "hash": "sha256-epX46Bug7kNDf9CDPoPLhgiaGOH+bQ6fCxIyJwRYph0=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.9nm7bajy7e.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "EditorOfficeWasm2.wasm": "sha256-u8dQJoDbun59Th6LMco0jQYM12ctldpr2LI6trN9UA4="
+      "EditorOfficeWasm2.wasm": "sha256-VMcx25ta28HZrlsfME8nJu/S5dyyf/mBWLHTggkU8dU="
     },
     "pdb": {
-      "EditorOfficeWasm2.pdb": "sha256-WQ5ojtmHDjIZrAW4lLSuH+44iUQbx+58bvS1G3ylKFc="
+      "EditorOfficeWasm2.pdb": "sha256-ro6xOPY9Ki/JvGsaN3kRVf+tHtm818vTpZIjRrAXpjU="
     }
   },
   "cacheBootResources": true,
